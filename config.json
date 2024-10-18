@@ -1,0 +1,9 @@
+{
+    "video_path": "2356test2.ts",
+    "stationary_threshold": 10,
+    "email_interval": 900,
+    "skip_frames": 5,
+    "sender_email": "atspm.lethbridge@gmail.com",
+    "receiver_email": ["atspm.lethbridge@gmail.com","gang.xie.lv@gmail.com"],
+    "password": "pmhikzbmzwmycdmb"
+}
